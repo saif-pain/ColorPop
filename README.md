@@ -47,4 +47,4 @@ flutter run
 ---
 ## 📦 APK Release
 
-You can download the latest APK from the [Releases](https://github.com/saif-pain/ColorPop/releases) section.
+You can download the latest APK from the [Releases](https://github.com/saif-pain/ColorPop/releases) section
